@@ -1,8 +1,4 @@
-Aqui está um exemplo de README para o seu aplicativo de bingo automático:
-
----
-
-# Bingo Automático
+# Bingo
 
 Um aplicativo simples e interativo de bingo, construído com Python e a biblioteca `customtkinter`. Este aplicativo permite que você sorteie números de um bingo e exiba animações e frases motivacionais associadas aos números sorteados.
 
